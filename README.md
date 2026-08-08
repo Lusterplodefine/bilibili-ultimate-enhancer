@@ -36,4 +36,4 @@ Full-featured **Bilibili Ultimate Enhancer** productivity platform for team coll
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
